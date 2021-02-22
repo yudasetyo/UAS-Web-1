@@ -7,7 +7,9 @@ Web 1 Beta 2 change log :
 
 Bug list :
 - Login form could not distinguish between admin and user account
-- No Sql Database
+
+To Do List :
+- Create MySQL Database
 
 ==== Update 9/10/2019 ====
 + Penambahan menu (penempatan staff, input data)
@@ -17,4 +19,4 @@ change:
 
 Noted : Login form jangan diutak - atik, gw bikinnya susah2
 
-copyright 2019 yuda setyo.
+2019 yuda setyo
